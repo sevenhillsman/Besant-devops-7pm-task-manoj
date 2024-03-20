@@ -1,0 +1,15 @@
+nstalled packages names
+
+git
+
+https://github.com/Besant-manoj/Besant--manoj.git
+
+git@github.com:Besant-manoj/Besant--manoj.git
+
+https://github.com/sevenhillsman/Besant-devops-7pm-task-manoj.git
+
+git@github.com:sevenhillsman/Besant-devops-7pm-task-manoj.git
+
+https://github.com/Besant-manoj/Besant-tech-march-2024.git
+
+git@github.com:Besant-manoj/Besant-tech-march-2024.git
